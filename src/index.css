@@ -71,7 +71,7 @@ button:focus-visible {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-image: url('../public/Reggae.jpg');
+  background-image: url('/finalweb2/Reggae.jpg');
   background-size: cover;
  background-position: center;
  background-repeat: no-repeat;
