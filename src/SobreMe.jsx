@@ -23,7 +23,7 @@ function SobreMe(props) {
       <div className="perfil-container">
         <img
           className="perfil-imagen"
-          src="../public/logo.jpg"
+          src="/finalweb2/logo.jpg"
           alt="Perfil"
         />
         <h2 className="perfil-nombre">Academia Sergio el bailador</h2>
