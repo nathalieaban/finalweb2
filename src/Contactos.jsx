@@ -4,7 +4,7 @@ function Contactos() {
   return (
    <div class="card-group">
   <div class="card">
-    <img src="../public/morenada2.jpg" class="card-img-top" alt="..."></img>
+    <img src="/finalweb2/morenada2.jpg" class="card-img-top" alt="..."></img>
     <div class="card-body">
       <h5 class="card-title">MORENADA</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -36,7 +36,7 @@ function Contactos() {
     </div>
   </div>
   <div class="card">
-    <img src="../public/taquirari.jpg" class="card-img-top" alt="..."></img>
+    <img src="/finalweb2/taquirari.jpg" class="card-img-top" alt="..."></img>
     <div class="card-body">
       <h5 class="card-title">TAQUIRARI</h5>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
@@ -68,7 +68,7 @@ function Contactos() {
     </div>
   </div>
   <div class="card">
-    <img src="../public/rueda.jpg" class="card-img-top" alt="..."></img>
+    <img src="/finalweb2/rueda.jpg" class="card-img-top" alt="..."></img>
     <div class="card-body">
       <h5 class="card-title">RUEDA CHAPACA</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
